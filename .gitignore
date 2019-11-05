@@ -1,0 +1,10 @@
+.env.py
+.c9
+*.c9
+.git
+*.git
+*__pycache__
+__pycache__
+venv/
+migrations/
+logs/
